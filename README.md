@@ -46,7 +46,7 @@ $ pkg update && pkg upgrade
 $ pkg install python2
 $ pip2 install requests bs4
 $ pkg install git
-$ git clone https://github.com/Yayan-XD/mbf-2
+$ git clone https://github.com/Shalawbabane/shalaw/blob/main/README.md
 ```
 
 ## Run script

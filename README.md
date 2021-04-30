@@ -51,8 +51,8 @@ $ git clone https://github.com/Yayan-XD/mbf-2
 
 ## Run script
 ```python
-$ cd mbf-2
-$ python2 crack.py
+$ cd shalaw
+$ python2 shalaw.py
 ```
 
 ## Informasi For Updates Script
